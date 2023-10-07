@@ -1,1 +1,5 @@
-# Exerc-cio-do-FAST
+# Exercio Fast - python
+
+
+
+
