@@ -1,4 +1,4 @@
-# Exercio Fast - python
+# Exercicio Fast - python
 
 
 
